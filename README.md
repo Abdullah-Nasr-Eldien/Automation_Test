@@ -1,4 +1,4 @@
-# Noon Egypt UI Automation
+#  UI Automation
 
 Java UI automation for selected Noon Egypt shopping flows. The project uses Selenium WebDriver to control the browser, TestNG to organize and sequence tests, Maven to manage dependencies and builds, and page-object classes to keep page interactions separate from test scenarios.
 
